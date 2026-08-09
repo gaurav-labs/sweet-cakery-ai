@@ -4,10 +4,6 @@
 
 Workflow-first architecture
 
-## Status
-
-Accepted
-
 ## Decision
 
 The workflow is responsible for orchestrating the complete request.
