@@ -1,0 +1,60 @@
+Please use most common related keywords for better SEO wherever possible. Please use simple English language for Indian peoples.
+
+[1] File Name**
+
+- Use lowercase with hyphens
+-
+**[2] Title**
+
+- Max 55 characters
+
+- Must include theme and occasion
+
+- Use title case (The first letter of each significant word is capitalized.)
+
+**[3] Alt Text**
+
+- Describe the visual cake + include Sweet Cakery branding (like from sweet Cskery)
+
+- Mention theme and elements clearly. Do not mention about the message or cake base
+
+
+**[4] Long Description** (Use either paragraph or bullet format)
+
+- Introduce the theme and occasion
+
+- Highlight design and decorations. Minimum 140 characters long. In a single paragraph.
+
+- Reassure:
+
+    - avoid eggless word
+
+    - Freshly made in Bangalore
+
+    - Customisable if applicable
+
+**[5] Short Description**
+
+- 160-180
+
+- Theme + highlight (e.g., design element) + avoid eggless + Bangalore
+
+- No repetition from meta. use bold font for focused words
+
+
+**[7] Meta Description**
+
+- Max 155 characters
+
+- Must include:
+
+    - Theme and occasion
+
+    - Keywords like _Bangalore_
+
+- Avoid: Dates, "Order now", eggless, custom theme, or promotional language
+- if possible, please add primary keywords of the cake in meta description.
+
+
+Please never mention buttercream anywhere, just mention cream.
+Please never mention about cream finish.

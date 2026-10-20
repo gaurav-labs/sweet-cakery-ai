@@ -1,0 +1,9 @@
+openai
+python-dotenv
+pydantic
+pytest
+langgraph
+langgraph-checkpoint-sqlite
+fastapi
+uvicorn
+python-multipart

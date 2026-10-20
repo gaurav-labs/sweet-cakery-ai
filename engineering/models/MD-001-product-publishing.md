@@ -19,13 +19,6 @@ Capture the minimum information required to publish a new product.
 | image | Product image |
 | starting_price | Starting price of the product |
 
-### Optional
-
-| Field | Description |
-|--------|-------------|
-| weight_options | Supported weight options |
-| custom_instructions | Additional instructions for AI |
-
 ---
 
 ## ProductDraft

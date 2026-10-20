@@ -1,0 +1,62 @@
+{
+  "sizes": [1, 2],
+  "flavors": {
+    "standard": [
+      "black forest",
+      "butter scotch",
+      "chocolate",
+      "chocolate truffle",
+      "coffee latte",
+      "pineapple",
+      "strawberry",
+      "vanilla"
+    ],
+    "middle": [
+      "coffee salted caramel",
+      "mix fruit",
+      "red velvet"
+    ],
+    "premium": [
+      "belgian chocolate",
+      "chocolate hazelnut",
+      "chocolate almond"
+    ]
+  },
+  "pricing": {
+    "standard": {
+      "starting_price_addon": 0,
+      "additional_kg_price": 1300
+    },
+    "middle": {
+      "starting_price_addon": 200,
+      "additional_kg_price": 1500
+    },
+    "premium": {
+      "starting_price_addon": 400,
+      "additional_kg_price": 1700
+    }
+  },
+  "woo_slugs": {
+    "flavors": {
+      "black forest": "black-forest",
+      "butter scotch": "butter-scotch",
+      "chocolate": "chocolate-2",
+      "chocolate truffle": "chocolate",
+      "coffee latte": "coffee-latte",
+      "coffee salted caramel": "coffee-salted-caramel",
+      "mix fruit": "mix-fruit",
+      "pineapple": "pineapple",
+      "red velvet": "red-velvet",
+      "strawberry": "strawberry",
+      "vanilla": "vanilla",
+      "belgian chocolate": "belgian-chocolate",
+      "chocolate hazelnut": "chocolate-hazelnut",
+      "chocolate almond": "chocolate-almond"
+    },
+    "sizes": {
+      "1": "1-kg",
+      "2": "2-kg",
+      "3": "3-kg"
+    }
+  }
+}
